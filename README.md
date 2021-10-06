@@ -1,6 +1,6 @@
-# Console
+# LCARS
 
-Console is Calgary Protospace's door disply. It runs on tablets mounted at each door.
+LCARS is Calgary Protospace's door disply. It runs on tablets mounted at each door.
 
 ## License
 
